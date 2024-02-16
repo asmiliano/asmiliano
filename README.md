@@ -11,7 +11,7 @@ I have basic skills in developing and implementing security strategies, risk ana
 
 - 🥷: Cyber-Security student
 
-- 🤓: International student exchange student as well !
+- 🤓: International student exchange student at Innopolis University !
 
 - :mailbox: Contact with me:[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/azatbrb)[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zhakubayevvv@gmail.com)
 
