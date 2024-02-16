@@ -13,9 +13,7 @@ I have basic skills in developing and implementing security strategies, risk ana
 
 - 🤓: International student exchange student as well !
 
-- :mailbox: Contact with me:
-- [![Telegram Badge](https://img.shields.io/badge/-AzatZhakubayev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/azatbrb)
-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat&logo=Gmail&logoColor=white)](mailto:zhakubayevvv@gmail.com)
+- :mailbox: Contact with me:[![Telegram Badge](https://img.shields.io/badge/-AzatZhakubayev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/azatbrb).[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zhakubayevvv@gmail.com)
 
 ---
 
