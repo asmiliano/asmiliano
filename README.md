@@ -66,10 +66,10 @@ I have basic skills in developing and implementing security strategies, risk ana
 
 | Courses                                                                                          | Сourse end date    |
 | ------------------------------------------------------------------------------------------------ | :-----------------:|
-| coursera.org: Georgia Institute of Technology - Introduction to Electronics                      | 27/11/2023         |
-| coursera.org: University of California San Diego - Introduction to Graph Theory                  | 26/11/2023         |
-| coursera.org: University of Colorado System - Cryptography and Information Theory                | 06/10/2023         |
+| coursera.org: IBM - IT Fundamentals for Cybersecurity Specialization                             | 15/09/2023         |
 | coursera.org: University of Colorado Boulder - Probability Theory: Foundation for Data Science   | 10/10/2023         |
-| coursera.org: IBM - IT Fundamentals for Cybersecurity Specialization                             | 03/2022            |
+| coursera.org: University of Colorado System - Cryptography and Information Theory                | 29/10/2023         |
+| coursera.org: University of California San Diego - Introduction to Graph Theory                  | 13/11/2023         |
+| coursera.org: Georgia Institute of Technology - Introduction to Electronics                      | 27/12/2023         |
 
 --- 
